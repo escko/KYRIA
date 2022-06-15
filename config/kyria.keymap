@@ -89,8 +89,8 @@
 			bindings = <
 	&trans &trans &trans    &kp N  &kp Y &kp K                                                &kp Y &kp U  &kp I     &kp O   &kp P    &kp BSLH
 	&trans &trans &trans    &trans &kp F &kp A                                                &kp H &kp J  &kp K     &kp L   &kp SEMI &kp SQT
-	&trans &trans &trans    &kp SINGLE_QUOTE &kp U &kp LA(N1) &kp PERIOD &trans                &kp LSHFT &kp LSHFT &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RCTRL
-	              &trans    &kp BACKSLASH &trans &kp COMMA &kp O                                       &kp RET  &kp SPACE  &kp TAB &kp BSPC &kp RALT
+	&trans &trans &trans    &kp SINGLE_QUOTE &kp U &kp LA(N1) &kp COMMA &trans                &kp LSHFT &kp LSHFT &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RCTRL
+	              &trans    &kp BACKSLASH &trans &kp PERIOD &kp O                                       &kp RET  &kp SPACE  &kp TAB &kp BSPC &kp RALT
 			>;
 
 			sensor-bindings = <&inc_dec_kp LC(LBKT) LC(RBKT)>;
@@ -104,8 +104,8 @@
 			bindings = <
 	&trans &trans &trans    &trans &kp C &kp J                                                 &kp Y &kp U  &kp I     &kp O   &kp P    &kp BSLH
 	&trans &trans &trans    &kp M &kp G &kp D                                                 &kp H &kp J  &kp K     &kp L   &kp SEMI &kp SQT
-	&trans &trans &trans    &kp SEMICOLON &kp I &mo BLUE &kp PERIOD &kp B             &kp LSHFT &kp LSHFT &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RCTRL
-	              &trans    &kp P &kp X &kp COMMA &kp SLASH                                   &kp RET  &kp SPACE  &kp TAB &kp BSPC &kp RALT
+	&trans &trans &trans    &kp SEMICOLON &kp I &mo BLUE &kp COMMA &kp B             &kp LSHFT &kp LSHFT &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RCTRL
+	              &trans    &kp P &kp X &kp PERIOD &kp SLASH                                   &kp RET  &kp SPACE  &kp TAB &kp BSPC &kp RALT
 			>;
 
 			sensor-bindings = <&inc_dec_kp LC(LBKT) LC(RBKT)>;
