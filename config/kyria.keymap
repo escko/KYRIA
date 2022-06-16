@@ -107,7 +107,7 @@
 			bindings = <
 	&trans &trans &trans    &trans &kp C &kp J                                                 &kp Y &kp U  &kp I     &kp O   &kp P    &kp BSLH
 	&trans &trans &trans    &kp M &kp G &kp D                                                 &kp H &kp J  &kp K     &kp L   &kp SEMI &kp SQT
-	&trans &trans &trans    &kp SEMICOLON &kp I &mo BLUE &kp LG(LSHFT) &kp O             &kp LSHFT &kp LSHFT &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RCTRL
+	&trans &trans &trans    &kp SEMICOLON &kp I &mo BLUE &kp SLASH &kp O             &kp LSHFT &kp LSHFT &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RCTRL
 	              &trans    &kp P &kp X &kp COMMA &kp PERIOD                                   &kp RET  &kp SPACE  &kp TAB &kp BSPC &kp RALT
 			>;
 
