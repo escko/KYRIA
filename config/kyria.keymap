@@ -74,8 +74,8 @@
 			bindings = <
 	&trans &trans &trans    &lt RAISE L &kp LBKT &kp RBKT                                                &kp Y &kp U  &kp I     &kp O   &kp P    &kp BSLH
 	&trans &trans &trans    &lt LOWER W &kp E &kp S                                                &kp H &kp J  &kp K     &kp L   &kp SEMI &kp SQT
-	&trans &trans &trans    &kp R &kp T &kp LA(N1) &kp LSHFT &kp SPACE                &kp LSHFT &kp LSHFT &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RCTRL
-	              &trans    &lt ORANG Q &kp Z &kp LALT &kp LGUI                         &kp RET  &kp SPACE  &kp TAB &kp BSPC &kp RALT
+	&trans &trans &trans    &kp R &kp T &kp LA(N1) &kp LGUI &kp SPACE                &kp LSHFT &kp LSHFT &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RCTRL
+	              &trans    &lt ORANG Q &kp Z &kp LALT &kp LSHFT                         &kp RET  &kp SPACE  &kp TAB &kp BSPC &kp RALT
 			>;
 
 			sensor-bindings = <&inc_dec_kp N5 N6>;
@@ -89,7 +89,7 @@
 			bindings = <
 	&trans &trans &trans    &kp N  &kp Y &kp K                                                &kp Y &kp U  &kp I     &kp O   &kp P    &kp BSLH
 	&trans &trans &trans    &trans &kp F &kp A                                                &kp H &kp J  &kp K     &kp L   &kp SEMI &kp SQT
-	&trans &trans &trans    &kp SINGLE_QUOTE &kp U &kp LA(N1) &kp O &trans                &kp LSHFT &kp LSHFT &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RCTRL
+	&trans &trans &trans    &kp SINGLE_QUOTE &kp U &kp LA(N1) &kp V &kp B                &kp LSHFT &kp LSHFT &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RCTRL
 	              &trans    &kp BACKSLASH &trans &kp COMMA &kp PERIOD                                       &kp RET  &kp SPACE  &kp TAB &kp BSPC &kp RALT
 			>;
 
@@ -104,7 +104,7 @@
 			bindings = <
 	&trans &trans &trans    &trans &kp C &kp J                                                 &kp Y &kp U  &kp I     &kp O   &kp P    &kp BSLH
 	&trans &trans &trans    &kp M &kp G &kp D                                                 &kp H &kp J  &kp K     &kp L   &kp SEMI &kp SQT
-	&trans &trans &trans    &kp SEMICOLON &kp I &mo BLUE &kp SLASH &kp B             &kp LSHFT &kp LSHFT &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RCTRL
+	&trans &trans &trans    &kp SEMICOLON &kp I &mo BLUE &kp SLASH &kp O             &kp LSHFT &kp LSHFT &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RCTRL
 	              &trans    &kp P &kp X &kp COMMA &kp PERIOD                                   &kp RET  &kp SPACE  &kp TAB &kp BSPC &kp RALT
 			>;
 
