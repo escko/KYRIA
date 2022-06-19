@@ -81,7 +81,7 @@
 	              &trans    &lt ORANG Q &kp Z &kp LALT &kp PERIOD                        &kp RET  &kp SPACE  &kp TAB &kp BSPC &kp RALT
 			>;
 
-			sensor-bindings = <&inc_dec_kp N5 N6>;
+			sensor-bindings = <&inc_dec_kp N7 N8>;
 		};
         lower_layer {
 // ---------------------------------------------------------------------------------------------------------------------------------
